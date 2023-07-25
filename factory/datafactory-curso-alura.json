@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-curso-alura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59236f4a-f905-4041-b073-6d76ecb7087f",
+		"tenantId": "f35fd640-bef4-4a28-94d8-413623f8e38f"
+	}
+}
